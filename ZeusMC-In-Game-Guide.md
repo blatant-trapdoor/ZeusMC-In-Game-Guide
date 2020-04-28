@@ -12,11 +12,17 @@
 <br>
 
 **Jobs**
+
 You got to pick a job, your choices are:
+
 Mining
+
 Excavating
+
 Hunting
+
 Farming
+
 Fishing
 
 </br>
@@ -79,5 +85,5 @@ Fishing
 
 </br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1MjE5OTI2XX0=
+eyJoaXN0b3J5IjpbLTQ2NjkyNzkwNiw1NTUyMTk5MjZdfQ==
 -->

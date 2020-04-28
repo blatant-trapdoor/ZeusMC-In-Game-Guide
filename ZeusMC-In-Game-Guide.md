@@ -13,17 +13,17 @@
 
 **Jobs**
 
-You got to pick a job, your choices are:
+You got to pick a job; your choices are:
 
-Mining
+Mining:
 
-Excavating
+Excavating:
 
-Hunting
+Hunting:
 
-Farming
+Farming:
 
-Fishing
+Fishing:
 
 </br>
 <br>
@@ -85,5 +85,5 @@ Fishing
 
 </br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjkyNzkwNiw1NTUyMTk5MjZdfQ==
+eyJoaXN0b3J5IjpbMjk5MDM1Njg5LDU1NTIxOTkyNl19
 -->

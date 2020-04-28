@@ -8,6 +8,18 @@
 
 **Ranks**
 
+I -
+
+II -
+
+III -
+
+IV -
+
+V -
+
+VI -
+
 </br>
 <br>
 
@@ -85,5 +97,6 @@ Fishing:
 
 </br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk5MDM1Njg5LDU1NTIxOTkyNl19
+eyJoaXN0b3J5IjpbMTI0ODM5NDk0NywyOTkwMzU2ODksNTU1Mj
+E5OTI2XX0=
 -->

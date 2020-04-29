@@ -4,6 +4,8 @@
 
 ## Getting Started
 
+   - [Ranks](Ranks)
+
 <br>
 
 ### Ranks

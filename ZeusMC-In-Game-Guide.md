@@ -2,14 +2,14 @@
 
    ZeusMC's key features are ranks, jobs, mcMMO, quests, lands, and player-shops. 
 
-## Getting Started
+# Getting Started
 
    - [Ranks](#Ranks)
    - [Jobs](#Jobs)
 
 <br>
 
-### Ranks
+# Ranks
 
 ---
 
@@ -209,7 +209,7 @@ As you rank up, you collect rewards, you will never lose any.
 </br>
 <br>
 
-### Jobs
+# Jobs
 ---
 
 </br>
@@ -326,26 +326,26 @@ You got to pick a job, or you'll be poor forever; your choices are:
 </br>
 <br>
 
-### Quests
+# Quests
 
 </br>
 <br>
 
-### Lands
+# Lands
 
 </br>
 <br>
 
-### Player-Shops
+# Player-Shops
 
 </br>
 <br>
 
-### List of Player-Warps
+# List of Player-Warps
 
 </br>
 
-## Command Index
+# Command Index
 
 <br>
 

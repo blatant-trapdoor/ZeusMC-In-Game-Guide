@@ -1,11 +1,3 @@
-<style>
-.jobs {
-color: rgb (107,79,187);
-} 
-
-</style>
-
-
 # ZeusMC In-Game Guide
 
    ZeusMC's key features are ranks, jobs, mcMMO, quests, lands, and player-shops. 
@@ -127,7 +119,7 @@ Fishing:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDYwMDQ4ODIsLTI2NDk2Njk4MCwtMj
+eyJoaXN0b3J5IjpbLTE3OTA5MDM5NTcsLTI2NDk2Njk4MCwtMj
 gwOTgwNTEyLDEyNDgzOTQ5NDcsMjk5MDM1Njg5LDU1NTIxOTky
 Nl19
 -->

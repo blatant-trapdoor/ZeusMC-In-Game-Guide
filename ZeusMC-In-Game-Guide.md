@@ -6,7 +6,7 @@
 
 <br>
 
-**Ranks**
+### Ranks
 
 I -
 
@@ -23,7 +23,9 @@ VI -
 </br>
 <br>
 
-**Jobs**
+### Jobs
+
+
 
 You got to pick a job; your choices are:
 
@@ -40,11 +42,20 @@ Fishing:
 </br>
 <br>
 
-**mcMMO For Dummies**
+### mcMMO For Dummies
 
-*Gathering*
+---
 
-| 
+**Gathering**
+
+<br>
+
+| Mining |
+
+</br>
+<br>
+
+| Woodcutting |
 
 </br>
 <br>
@@ -101,6 +112,6 @@ Fishing:
 
 </br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDMwNDg5NzAsMTI0ODM5NDk0NywyOT
-kwMzU2ODksNTU1MjE5OTI2XX0=
+eyJoaXN0b3J5IjpbMTk3ODM0NzAzNiwxMjQ4Mzk0OTQ3LDI5OT
+AzNTY4OSw1NTUyMTk5MjZdfQ==
 -->

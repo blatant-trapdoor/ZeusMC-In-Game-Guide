@@ -382,13 +382,7 @@ You got to pick a job, or you'll be poor forever; your choices are:
 </br>
 <br>
 
-### Player-Shop
+### Player-Shop Commands
 
 </br>
 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTA5MDM5NTcsLTI2NDk2Njk4MCwtMj
-gwOTgwNTEyLDEyNDgzOTQ5NDcsMjk5MDM1Njg5LDU1NTIxOTky
-Nl19
--->

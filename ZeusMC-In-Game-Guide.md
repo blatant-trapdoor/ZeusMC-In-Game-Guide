@@ -144,7 +144,7 @@ As you rank up, you collect rewards, you will never lose any.
 </br>
 <br>
 
-**XV - $3**
+**XV - $3M**
 
    - /feed - Instantly fill your hunger bar (1 min. cooldown)
    - +1 Player Vault row *(Max: 5)*

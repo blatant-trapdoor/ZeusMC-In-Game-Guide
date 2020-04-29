@@ -216,7 +216,7 @@ As you rank up, you collect rewards, you will never lose any.
 <br>
 
 
-You got to pick a job; your choices are:
+You got to pick a job, or you'll be poor forever; your choices are:
 
 <br>
 
@@ -254,7 +254,25 @@ You got to pick a job; your choices are:
 </br>
 <br>
 
-**Miner**
+   - **Miner**
+
+<br>
+
+| Breaking Blocks |
+
+   - Stone *($9.16, 1.10 XP)*
+   - Andesite *($11.22, 1.25 XP)*
+   - Diorite *($11.22, 1.25 XP)*
+   - Granite *($11.22, 1.25 XP)*
+   - Sandstone *($4.18, 0.50 XP)*
+   - Coal Ore *($24.89, 3.00 XP)*
+   - Redstone Ore *($26.55, 3.20 XP)*
+   - Iron Ore *($49.78, 7.00 XP)*
+   - Gold Ore *($58.07, 7.00 XP)*
+   - Lapis Lazuli Ore *($58.07, 7.00 XP)*
+   - Diamond Ore *($82.96, 10.00 XP)*
+   - Emerald Ore *($124.44, 10.00 XP)*
+   - Obsidian *($49.78, 6.00 XP)*
 
 </br>
 <br>

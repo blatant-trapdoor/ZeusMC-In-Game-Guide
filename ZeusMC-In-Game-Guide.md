@@ -42,6 +42,10 @@ Fishing:
 
 **mcMMO For Dummies**
 
+*Gathering*
+
+| 
+
 </br>
 <br>
 
@@ -97,6 +101,6 @@ Fishing:
 
 </br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODM5NDk0NywyOTkwMzU2ODksNTU1Mj
-E5OTI2XX0=
+eyJoaXN0b3J5IjpbLTExNDMwNDg5NzAsMTI0ODM5NDk0NywyOT
+kwMzU2ODksNTU1MjE5OTI2XX0=
 -->

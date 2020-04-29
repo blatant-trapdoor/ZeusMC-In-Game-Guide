@@ -308,7 +308,7 @@ You got to pick a job, or you'll be poor forever; your choices are:
 </br>
 <br>
 
-### mcMMO For Dummies
+# mcMMO For Dummies
 
 ---
 

@@ -312,40 +312,48 @@ You got to pick a job, or you'll be poor forever; your choices are:
 
 ---
 
-**Gathering**
-
 <br>
 
-| Mining |
+## Mining
 
 </br>
 <br>
 
-| Woodcutting |
+## Woodcutting
 
 </br>
 <br>
 
 # Quests
 
+---
+
 </br>
 <br>
 
 # Lands
+
+---
 
 </br>
 <br>
 
 # Player-Shops
 
+---
+
 </br>
 <br>
 
 # List of Player-Warps
 
+---
+
 </br>
 
 # Command Index
+
+---
 
 <br>
 

@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-   - [Ranks](Ranks)
+   - [Ranks](#Ranks)
 
 <br>
 

@@ -220,7 +220,7 @@ You got to pick a job, or you'll be poor forever; your choices are:
 
 <br>
 
-   - **Woodsman**
+   - ## Woodsman
 
 <br>
 
@@ -254,7 +254,7 @@ You got to pick a job, or you'll be poor forever; your choices are:
 </br>
 <br>
 
-   - **Miner**
+   - ## Miner
 
 <br>
 
@@ -277,7 +277,7 @@ You got to pick a job, or you'll be poor forever; your choices are:
 </br>
 <br>
 
-**Digger**
+    - ## Digger
 
 </br>
 <br>

@@ -1,5 +1,7 @@
 <style>
-.jobs = 
+.jobs {
+color: rgb (107,79,187);
+} 
 
 </style>
 
@@ -125,7 +127,7 @@ Fishing:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTc5MDk3NDEsLTI2NDk2Njk4MCwtMj
+eyJoaXN0b3J5IjpbLTE3NDYwMDQ4ODIsLTI2NDk2Njk4MCwtMj
 gwOTgwNTEyLDEyNDgzOTQ5NDcsMjk5MDM1Njg5LDU1NTIxOTky
 Nl19
 -->

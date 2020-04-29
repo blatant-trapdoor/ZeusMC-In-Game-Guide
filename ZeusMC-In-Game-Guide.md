@@ -215,16 +215,75 @@ As you rank up, you collect rewards, you will never lose any.
 
 You got to pick a job; your choices are:
 
-Mining:
+<br>
 
-Excavating:
+   - **Woodsman**
 
-Hunting:
+<br>
 
-Farming:
+| Breaking Blocks |
 
-Fishing:
+   - Oak Log *($1.88, 1.50 XP)*
+   - Spruce Log *($1.56, 1.25 XP)*
+   - Birch Log *($1.88, 1.50 XP)*
+   - Jungle Log *($1.56, 1.25 XP)*
+   - Acacia Log *($1.88, 1.50 XP)*
+   - Dark Oak Log *($1.56, 1.25 XP)*
+   - Oak Leaves *($0.31, 0.25 XP)*
+   - Spruce Leaves *($0.31, 0.25 XP)*
+   - Birch Leaves *($0.31, 0.25 XP)*
+   - Jungle Leaves *($0.31, 0.25 XP)*
+   - Acacia Leaves *($0.31, 0.25 XP)*
+   - Dark Oak Leaves *($0.31, 0.25 XP)*
 
+</br>
+<br>
+
+| Placing Blocks |
+
+   - Oak Sapling *($2.50, 2.00 XP)*
+   - Spruce Sapling *($2.50, 2.00 XP)*
+   - Birch Sapling *($2.50, 2.00 XP)*
+   - Jungle Sapling *($2.50, 2.00 XP)*
+   - Acacia Sapling *($2.50, 2.00 XP)*
+   - Dark Oak Sapling *($2.50, 2.00 XP)*
+
+</br>
+<br>
+
+**Miner**
+
+</br>
+<br>
+
+**Digger**
+
+</br>
+<br>
+
+**Farmer**
+
+</br>
+<br>
+
+**Hunter**
+
+</br>
+<br>
+
+**Angler**
+
+</br>
+<br>
+
+**Shepard**
+
+</br>
+<br>
+
+**Blacksmith**
+
+</br>
 </br>
 <br>
 

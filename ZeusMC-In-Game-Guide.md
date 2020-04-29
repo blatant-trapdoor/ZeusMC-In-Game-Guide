@@ -10,20 +10,199 @@
 
 ---
 
-**I -** 
+<br>
 
-   - Starter Commands
+As you rank up, you collect rewards, you will never lose any.
 
-II -
+</br>
 
-III -
+<br>
 
-IV -
+**I - Free** 
 
-V -
+   - Starter Commands:
+   
+   - Homes: *(Max 1)*
+   - Jobs: *(Max: 2)*
+   - Player Vault: *(Max: 2 Rows)*
 
-VI -
+</br>
+<br>
 
+**II - $1000**
+
+   - Unlocks Lottery
+   - /craft - A Portable Workbench
+   - +1 Home *(Max: 2)*
+
+</br>
+<br>
+
+**III - $5k**
+
+   - Unlock the Auction House
+   - +3 Auction Items *(Max: 3)*
+
+</br>
+<br>
+
+**IV - $10K**
+
+   - /blocks - Converts compatible items into blocks (ex. coal, iron)
+   - +1 Player Vault Row *(Max: 3)*
+
+</br>
+<br>
+
+**V - $25K**
+
+   - Colored Sign Text
+   - +1 Lottery Ticket *(Max: 4)*
+
+</br>
+<br>
+
+**VI - $50K**
+
+   - /hat - Wear your currently held item on your head!
+   - +1 Home *(Max: 3)*
+   - +1 Job *(Max: 3)*
+
+</br>
+<br>
+
+**VII - $75K**
+
+   - Mine spawners with Silk Touch
+   - +2 Auction Item *(Max: 5)*
+   - Unlock Player Warps *(Max: 2)*
+
+</br>
+<br>
+
+**VIII - $100K**
+
+   - Access to QuickShop Commands:
+   - /back - Return to your last teleport location
+   - /pweather - Change your weather
+
+</br>
+<br>
+
+**IX - $150K**
+
+   - /rename - Rename currently held item, color codes available
+   - +1 Lottery Ticket *(Max: 5)*
+   - +1 Home *(Max: 4)
+
+</br>
+<br>
+
+**X - $250K**
+
+   - /shop - Open the shop without traveling to Spawn!
+   - +1 Player Vault row *(Max: 4)
+   - +1 Player Warp *(Max: 3)*
+
+</br>
+<br>
+
+**XI - $500K**
+
+   - Unlock all *Heads* Shops
+   - /back - Teleport to your last deathpoint
+   - +1 Home *(Max: 5)*
+
+</br>
+<br>
+
+**XII - $750K**
+
+   - Access your /quests anywhere!
+   - /ptime - Change your time
+   - +1 Lottery Ticket *(Max: 6)*
+   - +2 Auction Items *(Max: 7)*
+
+</br>
+<br>
+
+**XIII - $1M**
+
+   - /ec - Portable Enderchest
+   - +2 Homes *(Max: 7)*
+   - +1 Player Warps *(Max: 4)*
+
+</br>
+<br>
+
+**XIV - $1.5M**
+
+   - 10% Job Boost
+   - +1 Job *(Max: 4)*
+   - /top - Teleport to the nearest air block above you
+
+</br>
+<br>
+
+**XV - $3**
+
+   - /feed - Instantly fill your hunger bar (1 min. cooldown)
+   - +1 Player Vault row *(Max: 5)*
+
+</br>
+<br>
+
+**XVI - $5M**
+
+   - /fly - Fly within your land borders
+   - +1 Lottery Ticket *(Max: 7)*
+   - +2 Homes *(Max: 9)*
+
+</br>
+<br>
+
+**XVII - $75M**
+
+   - /nick - Change your display name
+   - -25% mcMMO coolsdowns
+   - +1 Player Warps *(Max: 5)*
+
+</br>
+<br>
+
+**XVIII - $10**
+
+   - KeepInventory *Enabled*
+   - +3 Auction Items *(Max: 10)*
+
+</br>
+<br>
+
+**XIX - $15M**
+
+   - +1 Lottery Ticket *(Max: 8)*
+   - +2 Homes *(Max: 11)*
+   - +1 Player Vault row *(Max: 6)*
+
+</br>
+<br>
+
+**XX - $25M**
+
+   - /fly - Take off! Fly without any restraint
+   - +25% mcMMO XP Gain
+   - +1 Player Warps *(Max: 6)*
+
+</br>
+<br>
+
+**XXI - $50**
+
+   - /fix - Repair currently held item (1 hour cooldown)
+   - +2 Homes *(Max: 13)*
+   - +20% Jobs Boost
+
+</br>
 </br>
 <br>
 

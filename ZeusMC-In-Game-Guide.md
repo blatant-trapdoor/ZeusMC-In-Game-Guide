@@ -4,8 +4,8 @@
 
 ## Getting Started
 
-   - [Ranks](###Ranks)
-   - [Jobs](###Jobs)
+   - [Ranks](#Ranks)
+   - [Jobs](#Jobs)
 
 <br>
 

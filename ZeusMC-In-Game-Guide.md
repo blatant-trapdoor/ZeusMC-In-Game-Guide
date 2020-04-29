@@ -1,3 +1,9 @@
+<style>
+.jobs = 
+
+</style>
+
+
 # ZeusMC In-Game Guide
 
    ZeusMC's key features are ranks, jobs, mcMMO, quests, lands, and player-shops. 
@@ -26,9 +32,11 @@ VI -
 <br>
 
 ### Jobs
-
-</
 ---
+
+</br>
+<br>
+
 
 You got to pick a job; your choices are:
 
@@ -117,7 +125,7 @@ Fishing:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjM1MzIxNywtMjY0OTY2OTgwLC0yOD
-A5ODA1MTIsMTI0ODM5NDk0NywyOTkwMzU2ODksNTU1MjE5OTI2
-XX0=
+eyJoaXN0b3J5IjpbLTE1MTc5MDk3NDEsLTI2NDk2Njk4MCwtMj
+gwOTgwNTEyLDEyNDgzOTQ5NDcsMjk5MDM1Njg5LDU1NTIxOTky
+Nl19
 -->

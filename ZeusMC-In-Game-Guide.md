@@ -8,6 +8,8 @@
 
 ### Ranks
 
+---
+
 I -
 
 II -
@@ -25,7 +27,7 @@ VI -
 
 ### Jobs
 
-
+---
 
 You got to pick a job; your choices are:
 
@@ -60,22 +62,22 @@ Fishing:
 </br>
 <br>
 
-**(Quests)**
+### Quests
 
 </br>
 <br>
 
-**Lands**
+### Lands
 
 </br>
 <br>
 
-**Player-Shops**
+### Player-Shops
 
 </br>
 <br>
 
-**List of Player-Warps**
+### List of Player-Warps
 
 </br>
 
@@ -83,35 +85,35 @@ Fishing:
 
 <br>
 
-**Player-Warps Commands**
+### Player-Warps Commands
 
 </br>
 <br>
 
-**Jobs Commands**
+### Jobs Commands
 
 </br>
 <br>
 
-**mcMMO Commands**
+### mcMMO Commands
 
 </br>
 <br>
 
-**(Quests) Commands**
+### Quests Commands
 
 </br>
 <br>
 
-**Lands Commands**
+### Lands Commands
 
 </br>
 <br>
 
-**Player-Shop**
+### Player-Shop
 
 </br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3ODM0NzAzNiwxMjQ4Mzk0OTQ3LDI5OT
+eyJoaXN0b3J5IjpbLTI4MDk4MDUxMiwxMjQ4Mzk0OTQ3LDI5OT
 AzNTY4OSw1NTUyMTk5MjZdfQ==
 -->
